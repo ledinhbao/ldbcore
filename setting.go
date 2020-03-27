@@ -1,4 +1,4 @@
-package core
+package ldbcore
 
 import "github.com/jinzhu/gorm"
 
